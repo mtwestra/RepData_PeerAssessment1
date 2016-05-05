@@ -1,9 +1,8 @@
----
-title: "Activity monitoring Data"
-author: "Mark Tiele Westra"
-date: "5 May 2016"
-output: html_document
----
+<!-- rmarkdown v1 -->
+Acticity monitoring data
+========================
+**author: mark Tiele Westra**  
+**date: 5 may 2016**
 
 Note to the reviewer: I have specifically chosen to use the real time as a x-axis of the various plots, instead of the interval number. I feel that this gives a more natural representation of the data.
 
